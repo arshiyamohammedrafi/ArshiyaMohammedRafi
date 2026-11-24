@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey there! 👋 I'm Arshiya
 
-<!--
-**arshiyamohammedrafi/ArshiyaMohammedRafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year Computer Science Engineering student at Saveetha Engineering College.
 
-Here are some ideas to get you started:
+💻 Passionate about frontend development and building responsive, user-friendly websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React
+
+### 👨‍💻 About Me
+- 🌐 Interested in frontend and web development
+- 💼 Working on freelance and startup projects
+- 🛠️ Building web projects and exploring creative ideas
+- 📚 Strengthening my problem-solving skills with Data Structures
+
+### 🤝 Let's Connect
+- GitHub:(https://github.com/yourusername)](https://github.com/arshiyamohammedrafi)
+- Linkedin: https://www.linkedin.com/in/arshiya-
+
+---
+
+*Building ideas into reality, one line of code at a time.* ✨
